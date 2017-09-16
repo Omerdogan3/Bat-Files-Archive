@@ -6,5 +6,9 @@ Instead of typing the same commands over and over, you can simply double-click t
 Simple Steps of how to write a batch file http://www.wikihow.com/Write-a-Batch-File
 
 Added .bat files
+
 Edit a file with sublime text with right click 
+
+How to use?
+- Just simply double click .bat file
 
